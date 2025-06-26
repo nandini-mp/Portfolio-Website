@@ -5,7 +5,7 @@ export default function Navbar() {
     return (
         <div className="navbar">
   <div className="navbar-container">
-    <a href=".././public/NandiniMPrakash_Resume.pdf" target='_blank' rel="noopener noreferrer" className="resume">Resume</a>
+    <a href="/NandiniMPrakash_Resume.pdf" target='_blank' rel="noopener noreferrer" className="resume">Resume</a>
     <ul className="nav-links">
       <li><a href="#skills">Skills</a></li>
       <li><a href="#profiles">Profiles</a></li>
